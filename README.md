@@ -1,1 +1,0 @@
-# VeterinaryProject---Java
